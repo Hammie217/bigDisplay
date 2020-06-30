@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/hamishsams/Desktop/bigDisplay/Display/Display.sch</source>
+    <date>Monday, 29 June 2020 at 23:15:14</date>
+    <tool>Eeschema (5.1.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Display.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U17">
+      <value>TM1640</value>
+      <footprint>Symbol:SOIC-28</footprint>
+      <libsource lib="tm1640" part="TM1640" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA4AD8</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A9B</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7F76</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFAAC1C</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFAB21B</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB3F5A</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB441D</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFABC66</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBB8D1</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBFB7D</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBFB92</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFC5997</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFC59AC</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFC59C1</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFC59D6</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0E7A</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0E8F</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0EA4</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0EB9</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0ECE</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0EE3</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0EF8</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>HDSP-7503</value>
+      <footprint>Display_7Segment:HDSP-A151</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-2553EN</datasheet>
+      <libsource lib="Display_Character" part="HDSP-7503" description="One digit 7 segment high efficiency red, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFD0F0D</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB3346</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display_Character" part="HDSP-A153">
+      <aliases>
+        <alias>HDSP-7503</alias>
+      </aliases>
+      <description>One digit 7 segment red, common cathode</description>
+      <docs>https://docs.broadcom.com/docs/AV02-2553EN</docs>
+      <footprints>
+        <fp>HDSP?A151*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HDSP-A153</field>
+        <field name="Footprint">Display_7Segment:HDSP-A151</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CC" type="input"/>
+        <pin num="2" name="F" type="input"/>
+        <pin num="3" name="G" type="input"/>
+        <pin num="4" name="E" type="input"/>
+        <pin num="5" name="D" type="input"/>
+        <pin num="6" name="CC" type="input"/>
+        <pin num="7" name="DP" type="input"/>
+        <pin num="8" name="C" type="input"/>
+        <pin num="9" name="B" type="input"/>
+        <pin num="10" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tm1640" part="TM1640">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TM1640</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GRID12" type="output"/>
+        <pin num="2" name="GRID13" type="output"/>
+        <pin num="3" name="GRID14" type="output"/>
+        <pin num="4" name="GRID15" type="output"/>
+        <pin num="5" name="GRID16" type="output"/>
+        <pin num="6" name="VSS" type="output"/>
+        <pin num="7" name="DIN" type="input"/>
+        <pin num="8" name="SCLK" type="input"/>
+        <pin num="9" name="SEG1" type="output"/>
+        <pin num="10" name="SEG2" type="output"/>
+        <pin num="11" name="SEG3" type="output"/>
+        <pin num="12" name="SEG4" type="output"/>
+        <pin num="13" name="SEG5" type="output"/>
+        <pin num="14" name="SEG6" type="output"/>
+        <pin num="15" name="SEG7" type="output"/>
+        <pin num="16" name="SEG8" type="output"/>
+        <pin num="17" name="VDD" type="input"/>
+        <pin num="18" name="GRID1" type="output"/>
+        <pin num="19" name="GRID2" type="output"/>
+        <pin num="20" name="GRID3" type="output"/>
+        <pin num="21" name="GRID4" type="output"/>
+        <pin num="22" name="GRID5" type="output"/>
+        <pin num="23" name="GRID6" type="output"/>
+        <pin num="24" name="GRID7" type="output"/>
+        <pin num="25" name="GRID8" type="output"/>
+        <pin num="26" name="GRID9" type="output"/>
+        <pin num="27" name="GRID10" type="output"/>
+        <pin num="28" name="GRID11" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Display_Character">
+      <uri>/Library/Application Support/kicad/library/Display_Character.lib</uri>
+    </library>
+    <library logical="tm1640">
+      <uri>/Users/hamishsams/Desktop/TM1640/tm1640.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="SEG2">
+      <node ref="U17" pin="10"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U9" pin="9"/>
+      <node ref="U5" pin="9"/>
+      <node ref="U4" pin="9"/>
+      <node ref="U10" pin="9"/>
+      <node ref="U3" pin="9"/>
+      <node ref="U16" pin="9"/>
+      <node ref="U2" pin="9"/>
+      <node ref="U7" pin="9"/>
+      <node ref="U11" pin="9"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U12" pin="9"/>
+      <node ref="U13" pin="9"/>
+      <node ref="U8" pin="9"/>
+      <node ref="U14" pin="9"/>
+      <node ref="U15" pin="9"/>
+    </net>
+    <net code="2" name="SEG3">
+      <node ref="U15" pin="8"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U10" pin="8"/>
+      <node ref="U3" pin="8"/>
+      <node ref="U8" pin="8"/>
+      <node ref="U4" pin="8"/>
+      <node ref="U16" pin="8"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U17" pin="11"/>
+      <node ref="U6" pin="8"/>
+      <node ref="U14" pin="8"/>
+      <node ref="U11" pin="8"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U12" pin="8"/>
+      <node ref="U13" pin="8"/>
+      <node ref="U9" pin="8"/>
+    </net>
+    <net code="3" name="SEG4">
+      <node ref="U13" pin="5"/>
+      <node ref="U15" pin="5"/>
+      <node ref="U9" pin="5"/>
+      <node ref="U8" pin="5"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U10" pin="5"/>
+      <node ref="U17" pin="12"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U7" pin="5"/>
+      <node ref="U11" pin="5"/>
+      <node ref="U12" pin="5"/>
+      <node ref="U6" pin="5"/>
+      <node ref="U2" pin="5"/>
+      <node ref="U14" pin="5"/>
+      <node ref="U16" pin="5"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="4" name="SEG5">
+      <node ref="U13" pin="4"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U15" pin="4"/>
+      <node ref="U9" pin="4"/>
+      <node ref="U4" pin="4"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U6" pin="4"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U11" pin="4"/>
+      <node ref="U17" pin="13"/>
+      <node ref="U12" pin="4"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U14" pin="4"/>
+    </net>
+    <net code="5" name="SEG6">
+      <node ref="U17" pin="14"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U11" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U14" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U13" pin="2"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U7" pin="2"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="6" name="SEG7">
+      <node ref="U7" pin="3"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U15" pin="3"/>
+      <node ref="U3" pin="3"/>
+      <node ref="U11" pin="3"/>
+      <node ref="U9" pin="3"/>
+      <node ref="U14" pin="3"/>
+      <node ref="U6" pin="3"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U13" pin="3"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U12" pin="3"/>
+      <node ref="U8" pin="3"/>
+      <node ref="U16" pin="3"/>
+      <node ref="U5" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U17" pin="15"/>
+    </net>
+    <net code="7" name="SEG8">
+      <node ref="U10" pin="7"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U16" pin="7"/>
+      <node ref="U12" pin="7"/>
+      <node ref="U17" pin="16"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U9" pin="7"/>
+      <node ref="U13" pin="7"/>
+      <node ref="U7" pin="7"/>
+      <node ref="U14" pin="7"/>
+      <node ref="U11" pin="7"/>
+      <node ref="U6" pin="7"/>
+      <node ref="U4" pin="7"/>
+      <node ref="U3" pin="7"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U15" pin="7"/>
+    </net>
+    <net code="8" name="SEG1">
+      <node ref="U6" pin="10"/>
+      <node ref="U9" pin="10"/>
+      <node ref="U5" pin="10"/>
+      <node ref="U10" pin="10"/>
+      <node ref="U7" pin="10"/>
+      <node ref="U4" pin="10"/>
+      <node ref="U3" pin="10"/>
+      <node ref="U11" pin="10"/>
+      <node ref="U2" pin="10"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U12" pin="10"/>
+      <node ref="U13" pin="10"/>
+      <node ref="U14" pin="10"/>
+      <node ref="U15" pin="10"/>
+      <node ref="U17" pin="9"/>
+      <node ref="U16" pin="10"/>
+      <node ref="U8" pin="10"/>
+    </net>
+    <net code="9" name="VDD">
+      <node ref="U17" pin="17"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="10" name="DIN">
+      <node ref="J1" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U17" pin="7"/>
+    </net>
+    <net code="11" name="SCLK">
+      <node ref="C3" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U17" pin="8"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="J1" pin="4"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U17" pin="6"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="13" name="GRID1">
+      <node ref="U1" pin="6"/>
+      <node ref="U17" pin="18"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="14" name="GRID2">
+      <node ref="U2" pin="6"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U17" pin="19"/>
+    </net>
+    <net code="15" name="GRID3">
+      <node ref="U17" pin="20"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="16" name="GRID4">
+      <node ref="U17" pin="21"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="17" name="GRID5">
+      <node ref="U5" pin="1"/>
+      <node ref="U17" pin="22"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="18" name="GRID6">
+      <node ref="U6" pin="6"/>
+      <node ref="U6" pin="1"/>
+      <node ref="U17" pin="23"/>
+    </net>
+    <net code="19" name="GRID7">
+      <node ref="U7" pin="6"/>
+      <node ref="U7" pin="1"/>
+      <node ref="U17" pin="24"/>
+    </net>
+    <net code="20" name="GRID8">
+      <node ref="U8" pin="6"/>
+      <node ref="U8" pin="1"/>
+      <node ref="U17" pin="25"/>
+    </net>
+    <net code="21" name="GRID9">
+      <node ref="U9" pin="6"/>
+      <node ref="U9" pin="1"/>
+      <node ref="U17" pin="26"/>
+    </net>
+    <net code="22" name="GRID10">
+      <node ref="U17" pin="27"/>
+      <node ref="U10" pin="1"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="23" name="GRID11">
+      <node ref="U11" pin="1"/>
+      <node ref="U11" pin="6"/>
+      <node ref="U17" pin="28"/>
+    </net>
+    <net code="24" name="GRID12">
+      <node ref="U12" pin="1"/>
+      <node ref="U12" pin="6"/>
+      <node ref="U17" pin="1"/>
+    </net>
+    <net code="25" name="GRID13">
+      <node ref="U17" pin="2"/>
+      <node ref="U13" pin="6"/>
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="26" name="GRID14">
+      <node ref="U17" pin="3"/>
+      <node ref="U14" pin="1"/>
+      <node ref="U14" pin="6"/>
+    </net>
+    <net code="27" name="GRID15">
+      <node ref="U15" pin="6"/>
+      <node ref="U15" pin="1"/>
+      <node ref="U17" pin="4"/>
+    </net>
+    <net code="28" name="GRID16">
+      <node ref="U16" pin="6"/>
+      <node ref="U17" pin="5"/>
+      <node ref="U16" pin="1"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1,1,100u,CP_EIA-3528-12_Kemet-T,~
+C2,1,100n,Capacitor_SMD:C_0603_1608Metric,~
+C4 C3,2,100p,Capacitor_SMD:C_0603_1608Metric,~
+J1,1,Conn,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~
+R2 R1,2,10k,Resistor_SMD:R_0603_1608Metric,~
+U1 U2 U3 U4 U5 U6 U7 U8 U9 U10 U11 U12 U13 U14 U15 U16,16,HDSP-7503,Display_7Segment:HDSP-A151,https://docs.broadcom.com/docs/AV02-2553EN
+U17,1,TM1640,Symbol:SOIC-28,
